@@ -15,7 +15,7 @@
 <h3 align="left">Skills</h3>
 <p align="left">
   ✔　<b>Languages</b>&nbsp;&nbsp;English (fluent) / Japanese (native)<br>
-✔　<b>Skills</b>&nbsp;&nbsp;Communication skills / Project management in a team<br>
+✔　<b>Skills</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Communication skills / Project management in a team<br>
 ✔　<b>Tools・Apps</b>&nbsp;&nbsp;Slack / GitHub / Microsoft Apps / Office 365 / SaaS<br>
 ✔　<b>Technologies</b>&nbsp;&nbsp;HTML / CSS / SCSS / JavaScript – Entry level<br>
 </p>
