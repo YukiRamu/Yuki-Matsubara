@@ -12,8 +12,8 @@
 
 <div align="left">
   <h3>🌐Language:</h3><p>English (fluent) / Japanese (native)</p>
-  <h3>💡Skills:</h3><p>Communication skills / Project management in a team</p>
-  <h3>🌷Tools・Applications:</h3><p>Slack / GitHub / Microsoft Apps / Office 365 / SaaS</p>
+  <h3>💡Skills:</h3><p>Communication skills / Project management in a team / Customer Service</p>
+  <h3>🌷Tools・Applications:</h3><p>Slack / GitHub / Microsoft Visual Studio Code / Microsoft Apps / Office 365 / SaaS / Cisco Umbrella / FreshDesk / FreshService</p>
 </div>
 
 <h3 align="left">⚡Technologies:</h3>
