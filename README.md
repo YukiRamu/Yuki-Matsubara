@@ -2,8 +2,10 @@
 <h3 align="center">A passionate front-end developer in Vancouver, BC Canada🍁</h3>
 
 - 🔭 I’m currently studying **Web Development at CICCC (https://ciccc.ca/)**
+
 - 🌱 I’m currently learning **HTML/CSS/SCSS/JavaScipt**
-- 📄 Know about my experiences <a href="https://github.com/YukiRamu/Yuki-Matsubara/blob/master/Resume.pdf" target="_blank">Resume</a>
+
+- 📄 Know about my experiences  <a href="https://github.com/YukiRamu/Yuki-Matsubara/blob/master/Resume.pdf" target="_blank">Resume</a>
 <hr>
 <h3 align="left">📭Connect with me:</h3>
 <p align="left">
