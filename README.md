@@ -24,7 +24,7 @@
 <h3 align="left">🏴󠁩󠁮󠁨󠁰󠁿Latest Project:</h3>
 <h4>⚓Recipe Finder Website: <a href = "https://yukiramu.github.io/Recipe-Finder/">Go find your recipes</a></h4>
 
-<br.<br>
+<br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yukiramu&show_icons=true&theme=calm&locale=en&layout=compact" alt="yukiramu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiramu&show_icons=true&theme=calm&locale=en" alt="yukiramu" /></p>
