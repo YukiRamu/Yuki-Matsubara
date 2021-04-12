@@ -23,12 +23,9 @@
 
 <h3 align="left">🏴󠁩󠁮󠁨󠁰󠁿Latest Project:</h3>
 <h4>⚓Portfolio: <a href = "https://yukiramu.github.io/Portfolio/">Website</a></h4>
-
-![image](https://user-images.githubusercontent.com/76931326/114344305-6d47b800-9b14-11eb-8ea5-f75d126f3696.png)
-
 <h4>⚓Recipe Finder Website: <a href = "https://yukiramu.github.io/Recipe-Finder/">Go find your recipes</a></h4>
 
-<br><br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yukiramu&show_icons=true&theme=calm&locale=en&layout=compact" alt="yukiramu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiramu&show_icons=true&theme=calm&locale=en" alt="yukiramu" /></p>
