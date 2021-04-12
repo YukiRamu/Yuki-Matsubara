@@ -14,7 +14,7 @@
 
 <div align="left">
   <h3>🌐Language:</h3><p>English (fluent) / Japanese (native)</p>
-  <h3>💡Skills:</h3><p>Communication skills / Project management in a team / Customer Service</p>
+  <h3>💡Skills:</h3><p>Communication skills / Project management in a team / Customer Service / Multi-tasking skills / Problem-solving skills</p>
   <h3>🌷Tools・Applications:</h3><p>Slack / GitHub / Microsoft Visual Studio Code / Microsoft Apps / Office 365 / SaaS / Cisco Umbrella / FreshDesk / FreshService</p>
 </div>
 
@@ -22,6 +22,10 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 <h3 align="left">🏴󠁩󠁮󠁨󠁰󠁿Latest Project:</h3>
+<h4>⚓Portfolio: <a href = "https://yukiramu.github.io/Portfolio/">Website</a></h4>
+
+![image](https://user-images.githubusercontent.com/76931326/114344305-6d47b800-9b14-11eb-8ea5-f75d126f3696.png)
+
 <h4>⚓Recipe Finder Website: <a href = "https://yukiramu.github.io/Recipe-Finder/">Go find your recipes</a></h4>
 
 <br><br>
