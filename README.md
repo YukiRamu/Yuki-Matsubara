@@ -31,7 +31,7 @@
 <h4>⚓Movie Theater Website: <a href = "https://yukiramu.github.io/Movie-Theater-Booking/">Book a theater!</a></h4>
 <h4>⚓Recipe Finder Website: <a href = "https://yukiramu.github.io/Recipe-Finder/">Go find your recipes</a></h4>
 <h4>⚓Redux To Do List App: <a href = "https://yukiramu.github.io/React-Redux-To-Do-List/">Create your to do list</a></h4>
-<h4>⚓React Weather App: <a href = "https://yukiramu.github.io/React-Weather-App/#/">Create your to do list</a></h4>
+<h4>⚓React Weather App: <a href = "https://yukiramu.github.io/React-Weather-App/#/">Check out the weather in your city</a></h4>
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yukiramu&show_icons=true&theme=calm&locale=en&layout=compact" alt="yukiramu" /></p>
