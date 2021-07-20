@@ -27,7 +27,7 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
 
 <h3 align="left">🏴󠁩󠁮󠁨󠁰󠁿Latest Project:</h3>
-<h4>⚓Portfolio: <a href = "https://yukiramu.github.io/Portfolio/">Website</a></h4>
+<h4>⚓Portfolio: <a href = "https://yukiramu.github.io/Portfolio_v2/">Website</a></h4>
 <h4>⚓Movie Theater Website: <a href = "https://yukiramu.github.io/Movie-Theater-Booking/">Book a theater!</a></h4>
 <h4>⚓Recipe Finder Website: <a href = "https://yukiramu.github.io/Recipe-Finder/">Go find your recipes</a></h4>
 <h4>⚓My To Do List App: <a href = "https://yukiramu.github.io/My-To-Do-List-App/">Create your to do list</a></h4>
