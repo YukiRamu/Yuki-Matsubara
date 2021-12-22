@@ -41,8 +41,6 @@
 <h4>⚓Simple Quiz App (React): <a href = "https://yukiramu.github.io/React-Quiz-App/#/">Try quiz!</a></h4>
 <h4>⚓Expense Trackify (Fullstack): <a href = "http://ec2-34-220-250-95.us-west-2.compute.amazonaws.com/login">Manage your expense and income</a></h4>
 <br>
-<br>
-<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yukiramu&show_icons=true&theme=calm&locale=en&layout=compact" alt="yukiramu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yukiramu&count_private=true&show_icons=true&theme=calm&locale=en" alt="yukiramu" /></p>
