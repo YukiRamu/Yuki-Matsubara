@@ -39,7 +39,7 @@
 <h4>⚓Redux To Do List App (React Redux): <a href = "https://yukiramu.github.io/React-Redux-To-Do-List/">Create your to do list</a></h4>
 <h4>⚓React Weather App (React): <a href = "https://yukiramu.github.io/React-Weather-App/#/">Check out the weather in your city</a></h4>
 <h4>⚓Simple Quiz App (React): <a href = "https://yukiramu.github.io/React-Quiz-App/#/">Try quiz!</a></h4>
-<h4>⚓Expense Trackify (Fullstack): <a href = "http://ec2-34-220-250-95.us-west-2.compute.amazonaws.com/login">Manage your expense and income</a></h4>
+<h4>⚓Expense Trackify (Fullstack): <a href = "https://expense-trackify-app.herokuapp.com/login">Manage your expense and income</a></h4>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yukiramu&show_icons=true&theme=calm&locale=en&layout=compact" alt="yukiramu" /></p>
 
