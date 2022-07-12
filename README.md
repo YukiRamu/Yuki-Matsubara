@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **HTML/CSS/SCSS/JavaScipt/React.js/Node.js**
 
-- 📄 Know about my experiences  <a href="https://github.com/YukiRamu/Yuki-Matsubara/blob/master/Resume.pdf" target="_blank">Resume</a>
 <hr>
 <h3 align="left">📭Connect with me:</h3>
 <p align="left">
