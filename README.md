@@ -1,9 +1,11 @@
 <h1 align="center">Hello there😊, I'm Yuki Matsubara</h1>
 <h3 align="center">A passionate front-end developer in Vancouver, BC Canada🍁</h3>
 
-- 🔭 I’m currently studying **Web Development at CICCC (https://ciccc.ca/)**
+- 🔭 I've completed **Web Development deploma at CICCC (https://ciccc.ca/)**
 
-- 🌱 I’m currently learning **HTML/CSS/SCSS/JavaScipt/React.js/Node.js**
+- 🌱 I’ve learnt **HTML/CSS/SCSS/JavaScipt/React.js/Node.js**
+
+- 🦄 I'm actively looking for the opportunity to work as a front-end developer anywhere remotely
 
 <hr>
 <h3 align="left">📭Connect with me:</h3>
