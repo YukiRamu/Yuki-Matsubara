@@ -5,7 +5,7 @@
 
 - 🌱 I’ve learnt **HTML/CSS/SCSS/JavaScipt/React.js/Node.js**
 
-- 🦄 I'm actively looking for the opportunity to work as a front-end developer anywhere remotely
+- 🦄 **I'm actively looking for the opportunity to work as a front-end developer (possibly React) anywhere remotely.**
 
 <hr>
 <h3 align="left">📭Connect with me:</h3>
